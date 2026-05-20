@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+data/cache/
+data/lap_times.csv
+*.pkl
+.env
+*.sqlite
+*.db
